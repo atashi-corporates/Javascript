@@ -6,6 +6,6 @@ num="90.9"
 console.log(num,nam);
 num="00"
 console.log(num,nam);
-console.log(num,nam);
+console.log(nam);
 
 
